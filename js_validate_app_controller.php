@@ -1,5 +1,5 @@
 <?php
-class JsValidateAppController extends AppController {
+class JsValidateAppController {
 
 }
 
